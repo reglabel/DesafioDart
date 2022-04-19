@@ -1,5 +1,5 @@
-name: conta_corrente
-description: A sample command-line application.
+name: dart_desafio
+description: A simple command-line application.
 version: 1.0.0
 # homepage: https://www.example.com
 
@@ -12,4 +12,3 @@ environment:
 
 dev_dependencies:
   lints: ^1.0.0
-  test: ^1.16.0
